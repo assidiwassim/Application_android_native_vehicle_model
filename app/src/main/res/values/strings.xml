@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Vehicle model</string>
+    <string-array name="choix">
+        <item><b>Small car</b></item>
+        <item><b>Tractor</b></item>
+        <item><b>Tank</b></item>
+        <item><b>Motobike</b></item>
+
+
+    </string-array>
+    <string-array name="fluid">
+        <item><b>Water</b></item>
+        <item><b>Air</b></item>
+
+
+    </string-array>
+
+</resources>
